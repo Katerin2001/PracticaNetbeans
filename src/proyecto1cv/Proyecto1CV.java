@@ -18,6 +18,7 @@ public class Proyecto1CV {
         // TODO code application logic here
         System.out.println("Kevin Cayo");
         System.out.println("Edison Sanchez");
+        System.out.println("Rene teran");
     }
     
 }
